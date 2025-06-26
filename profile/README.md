@@ -8,6 +8,10 @@ This repository offers tools and examples designed to help you get more out of [
 
 ## Cobalt Strike Configuration and Customization options
 
+We believe that flexibility is key to effective evasion and threat emulation. Cobalt Strike gives users the power to adapt—whether by tweaking malleable C2 profiles or going deeper with full customizations using our Arsenal Kit and Public Templates and Examples. 
+
+Whether you're modifying configurations or building custom implementations, you have the freedom to shape every stage of the attack chain.
+
 ### Run-Time Evasion
 
 * [Sleepmask-VS](https://github.com/Cobalt-Strike/sleepmask-vs): A simple Sleepmask BOF example
