@@ -18,6 +18,7 @@ This repository offers tools and examples designed to help you get more out of [
 ## Post-Exploitation
 
 * [BOF-VS](https://github.com/Cobalt-Strike/bof-vs): A Beacon Object File (BOF) template for Visual Studio
+* [BOF Template](https://github.com/Cobalt-Strike/bof_template): 
 
 ## Network Comms
 
@@ -25,4 +26,5 @@ This repository offers tools and examples designed to help you get more out of [
 
 ## Misc
 
-*
+* [Aggressor Script Examples](https://github.com/Cobalt-Strike/aggressor_script_examples): Tips, tricks, and examples of aggressor script functions
+* [Callback Examples](https://github.com/Cobalt-Strike/callback_examples): Examples demonstrating how to use callback functions in supported aggressor script functions
