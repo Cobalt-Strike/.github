@@ -1,3 +1,4 @@
+![Open Source at Fortra](https://github.com/cobalt-strike/.github/blob/main/images/open-at-cs.png) 
 
 # Fortra's Cobalt Strike Open Source projects
 
