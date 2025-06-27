@@ -2,7 +2,9 @@
 
 # Fortra's Cobalt Strike public projects
 
-This repository offers tools and examples designed to help you get more out of [Cobalt Strike](https://www.cobaltstrike.com). Our goal is to support researchers in pushing the limits of what the product can do—building creative, high-impact tools and techniques. We're continually inspired by the community, which proves every day that great ideas come from collaboration and innovation beyond what we could achieve alone.
+This repository offers tools and examples designed to help you get more out of [Cobalt Strike](https://www.cobaltstrike.com). Our goal is to support researchers in pushing the limits of what the product can do—building creative, high-impact tools and techniques. 
+
+We're continually inspired by the community, which proves every day that great ideas come from collaboration and innovation beyond what we could achieve alone.
 
 **Happy Hacking!**
 
@@ -33,4 +35,9 @@ Whether you're modifying configurations or building custom implementations, you 
 
 ### Community
 
-* [Cobalt Strike Community Kit](https://cobalt-strike.github.io/community_kit): The Cobalt Strike Community Kit is a curated repository of tools written by Cobalt Strike users and is another example of the level of community that sets Cobalt Strike apart from other C2 frameworks. 
+* [Cobalt Strike Community Kit](https://cobalt-strike.github.io/community_kit): The Cobalt Strike Community Kit is a curated repository of tools written by Cobalt Strike users and is another example of the level of community that sets Cobalt Strike apart from other C2 frameworks.
+
+## Our friends @ Fortra
+
+* [Outflank](https://github.com/outflanknl): Public repository of the [Outflank](https://www.outflank.nl/) team
+* [Fortra](https://github.com/fortra): Public repository of [Fortra](https://www.fortra.com)
