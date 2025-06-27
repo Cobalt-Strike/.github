@@ -16,22 +16,22 @@ Whether you're modifying configurations or building custom implementations, you 
 
 ### Run-Time Evasion
 
-* [Sleepmask-VS](https://github.com/Cobalt-Strike/sleepmask-vs): A simple Sleepmask BOF example
+* [Sleepmask-VS](https://github.com/Cobalt-Strike/sleepmask-vs): A simple Sleepmask BOF example.
 
 ### Post-Exploitation
 
-* [BOF-VS](https://github.com/Cobalt-Strike/bof-vs): A Beacon Object File (BOF) template for Visual Studio
-* [BOF Template](https://github.com/Cobalt-Strike/bof_template): Core files needed to create a Beacon Object File for use with Cobalt Strike
+* [BOF-VS](https://github.com/Cobalt-Strike/bof-vs): A Beacon Object File (BOF) template for Visual Studio.
+* [BOF Template](https://github.com/Cobalt-Strike/bof_template): Core files needed to create a Beacon Object File for use with Cobalt Strike.
 
 ### Network Comms
 
 * [Malleable C2 Profiles](https://github.com/Cobalt-Strike/Malleable-C2-Profiles): This repository is a collection of Malleable C2 profiles that you may use.
-* [Cobalt Strike Reference Profile](https://github.com/Cobalt-Strike/Malleable-C2-Profiles/blob/master/normal/reference.profile)
+* [Cobalt Strike Reference Profile](https://github.com/Cobalt-Strike/Malleable-C2-Profiles/blob/master/normal/reference.profile): Profile that is meant to show all of the options available in Malleable profiles.
 
 ### Misc
 
-* [Aggressor Script Examples](https://github.com/Cobalt-Strike/aggressor_script_examples): Tips, tricks, and examples of aggressor script functions
-* [Callback Examples](https://github.com/Cobalt-Strike/callback_examples): Examples demonstrating how to use callback functions in supported aggressor script functions
+* [Aggressor Script Examples](https://github.com/Cobalt-Strike/aggressor_script_examples): Tips, tricks, and examples of aggressor script functions.
+* [Callback Examples](https://github.com/Cobalt-Strike/callback_examples): Examples demonstrating how to use callback functions in supported aggressor script functions.
 
 ### Community
 
@@ -39,5 +39,5 @@ Whether you're modifying configurations or building custom implementations, you 
 
 ## Our friends @ Fortra
 
-* [Outflank](https://github.com/outflanknl): Public repository of the [Outflank](https://www.outflank.nl/) team
-* [Fortra](https://github.com/fortra): Public repository of [Fortra](https://www.fortra.com)
+* [Outflank](https://github.com/outflanknl): Public repository of the [Outflank](https://www.outflank.nl/) team.
+* [Fortra](https://github.com/fortra): Public repository of [Fortra](https://www.fortra.com), where tools like [Impacket](https://github.com/fortra/impacket) or [Nanodump](https://github.com/fortra/nanodump) have their home.
