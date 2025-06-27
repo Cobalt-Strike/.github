@@ -21,7 +21,7 @@ Whether you're modifying configurations or building custom implementations, you 
 ### Post-Exploitation
 
 * [BOF-VS](https://github.com/Cobalt-Strike/bof-vs): A Beacon Object File (BOF) template for Visual Studio
-* [BOF Template](https://github.com/Cobalt-Strike/bof_template): 
+* [BOF Template](https://github.com/Cobalt-Strike/bof_template): Core files needed to create a Beacon Object File for use with Cobalt Strike
 
 ### Network Comms
 
