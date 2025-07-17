@@ -27,6 +27,7 @@ Whether you're modifying configurations or building custom implementations, you 
 
 * [Malleable C2 Profiles](https://github.com/Cobalt-Strike/Malleable-C2-Profiles): This repository is a collection of Malleable C2 profiles that you may use.
 * [Cobalt Strike Reference Profile](https://github.com/Cobalt-Strike/Malleable-C2-Profiles/blob/master/normal/reference.profile): Profile that is meant to show all of the options available in Malleable profiles.
+* [External C2](https://github.com/Cobalt-Strike/External-C2): Specification to allow third-party programs to act as a communication layer for Cobalt Strike’s Beacon payload.
 
 ### Misc
 
